@@ -57,3 +57,5 @@ We are grateful to Prof. Jayadeva for giving us this opportunity to work with hi
 [1] Dr, Jayadeva & Deb, Alok & Chandra, Suresh. (2002). Binary classification by SVM based tree type neural networks.
 
 [2] Dr, Jayadeva & Khemchandani, Reshma & Chandra, Suresh. (2017). Twin Support Vector Machines.
+
+https://drive.google.com/drive/folders/11g7NJcwrB5e5DgQ22_IfyZnMYhv7g3F4
